@@ -59,7 +59,7 @@
 ## 📫 Контакты
 - GitHub: [https://github.com/AlexNovichkova](https://github.com/AlexNovichkova)  
 - Email: [aleksandranovickova7@gmail.com](mailto:aleksandranovickova7@gmail.com)  
-- Telegram: [t.me/huuuushari](https://t.me/huuuushari)
+- Telegram: [t.me/shuuuushari](https://t.me/shuuuushari)
 
 ---
 
